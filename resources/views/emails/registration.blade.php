@@ -1,0 +1,1 @@
+This letter for you... Go to the {!! $url !!}
