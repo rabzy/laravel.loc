@@ -49,7 +49,7 @@ use \Illuminate\Foundation\Inspiring as Inspiring;
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5 - it`s cool</div>
+                <div class="title">Laravel 5.3 - it`s cool</div>
                 <div class="quote"><?= Inspiring::quote(); ?></div>
             </div>
         </div>
